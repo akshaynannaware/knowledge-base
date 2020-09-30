@@ -26,7 +26,7 @@ open-source tools and integration with popular tier technologies.
 
 # Quick start your new tutorial:
 
-## Create your tutorial
+## How to Create your tutorial
 
 Fork runabove/knowledge-base repository and get the content on your machine.
 
